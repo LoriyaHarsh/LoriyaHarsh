@@ -1,4 +1,4 @@
-# Hi, I'm Harsh Loriya 👋
+# Hi, I'm Harsh 👋
 
 🎓 B.Tech CSE | 📍 Ahmedabad University  
 📌 AI/ML | Data Science | Computer Vision | Reinforcement Learning | Embedded Systems | Finance
